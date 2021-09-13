@@ -1,5 +1,7 @@
+import Encabezado from "./componentes/Encabezado.jsx"
+
 const App = () => {
-  return <h1>Hello!!!!</h1>;
+  return <Encabezado/>;
 };
 
 export default App;
