@@ -1,0 +1,26 @@
+nav ul{
+    list-style: none;
+    padding: 0px;
+    display: flex ;
+    align-items: center;
+    margin: 0;
+}
+.IconoEncabezado svg {
+    fill: black;
+}
+header{
+    display: flex ;
+    align-items: center ;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+li{
+    margin-left: 1rem;
+}
+EnlaceEncabezado{
+    text-decoration: none;
+    fill: black;
+}
